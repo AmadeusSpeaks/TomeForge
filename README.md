@@ -37,12 +37,12 @@ When the app starts:
 ```
 Documents/
 └── TomeForge/
-├── MyCampaign/
-│   ├── index.md
-│   ├── ReadMe.md
-│   └── encounters/
-│       └── goblin\_ambush.md
-└── AnotherTome/
+│   ├── MyCampaign/
+│     ├── index.md
+│     ├── ReadMe.md
+│     └── encounters/
+│         └── goblin\_ambush.md
+│   └── AnotherTome/
 ````
 
 ---
