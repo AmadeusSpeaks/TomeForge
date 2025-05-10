@@ -113,3 +113,17 @@ Having issues? Want to suggest a feature? Reach out via the [Issues](https://git
 ---
 
 Happy DMing 🧙‍♂️ and creating ✨ with **TomeForge**!
+
+### Disclaimer Regarding Image Rendering
+
+Please note that images displayed within this application may not appear exactly as they do in other photo viewers (e.g., Windows Photos) due to differences in rendering engines. If you experience visual glitches or artifacts with images (such as strange colors or corruption), this may be a result of how the images are handled in the application’s viewer.
+
+To ensure the best image display:
+
+* Ensure that images are in standard formats like PNG, JPG, or GIF.
+* Some rare image formats or special image properties may cause visual discrepancies within the editor.
+
+If you encounter such issues, it’s recommended to check the images in a standard photo viewer (such as Windows Photos) to verify that the files themselves are not corrupted.
+
+We are actively working to improve the image rendering and appreciate your understanding.
+
