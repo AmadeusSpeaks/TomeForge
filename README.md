@@ -1,4 +1,3 @@
-```markdown
 # TomeForge
 
 **TomeForge** is an alternative to Obsidian, built specifically to enhance your TTRPG experience. With integrated markdown editing, dice rolling, and intelligent table interpretation, TomeForge lets you run a D&D session — or any narrative project — quickly and easily.
@@ -38,12 +37,12 @@ When the app starts:
 ```
 Documents/
 └── TomeForge/
-├── MyCampaign/
-│   ├── index.md
-│   ├── ReadMe.md
-│   └── encounters/
-│       └── goblin\_ambush.md
-└── AnotherTome/
+│   ├── MyCampaign/
+│     ├── index.md
+│     ├── ReadMe.md
+│     └── encounters/
+│         └── goblin\_ambush.md
+│   └── AnotherTome/
 ````
 
 ---
@@ -109,7 +108,7 @@ Having issues? Want to suggest a feature? Reach out via the [Issues](https://git
 
 ## 📸 Screenshots
 
-*(You can add screenshots here once available, like the UI view with file explorer, markdown editor, and dice roller)*
+![TomeForge Screenshot](TomeForgeScreenshot.png)
 
 ---
 
