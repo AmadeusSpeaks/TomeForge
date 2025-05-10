@@ -108,7 +108,7 @@ Having issues? Want to suggest a feature? Reach out via the [Issues](https://git
 
 ## 📸 Screenshots
 
-*(You can add screenshots here once available, like the UI view with file explorer, markdown editor, and dice roller)*
+![TomeForge Screenshot](TomeForgeScreenshot.png)
 
 ---
 
