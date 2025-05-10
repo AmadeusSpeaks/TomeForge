@@ -1,4 +1,3 @@
-```markdown
 # TomeForge
 
 **TomeForge** is an alternative to Obsidian, built specifically to enhance your TTRPG experience. With integrated markdown editing, dice rolling, and intelligent table interpretation, TomeForge lets you run a D&D session — or any narrative project — quickly and easily.
